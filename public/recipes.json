@@ -1,0 +1,115 @@
+[
+    {
+      "id": "1",
+      "name": "Spicy Chicken Tacos",
+      "description": "Delicious chicken tacos with a spicy twist, perfect for dinner parties or casual evenings.",
+      "preparing_time": 30,
+      "calories": "350",
+      "image": "https://i.ibb.co/ChQV6J0/food-photographer-jennifer-pallian-8p-Ujh-Bm4c-Lw-unsplash.jpg",
+      "ingredients": [
+        "2 boneless chicken breasts",
+        "1 tablespoon olive oil",
+        "1 teaspoon chili powder",
+        "1/2 teaspoon cumin",
+        "1/4 teaspoon cayenne pepper",
+        "Salt and pepper to taste",
+        "8 small tortillas",
+        "1 cup shredded lettuce",
+        "1 cup diced tomatoes",
+        "1/2 cup shredded cheddar cheese",
+        "1/4 cup chopped cilantro",
+        "Sour cream and lime wedges for serving"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Vegetarian Pad Thai",
+      "description": "Authentic Thai noodles made with fresh vegetables, tofu, and a tangy sauce.",
+      "preparing_time": 25,
+      "calories": "300",
+      "image": "https://i.ibb.co/dB73Bn0/cala-w6ft-Fb-PCs9-I-unsplash.jpg",
+      "ingredients": [
+        "8 oz rice noodles",
+        "2 tablespoons vegetable oil",
+        "1 cup diced tofu",
+        "2 cloves garlic, minced",
+        "1 red bell pepper, thinly sliced",
+        "1 cup bean sprouts",
+        "2 green onions, chopped",
+        "1/4 cup chopped peanuts",
+        "2 tablespoons soy sauce",
+        "1 tablespoon tamarind paste",
+        "1 tablespoon brown sugar",
+        "1 tablespoon lime juice",
+        "1 teaspoon chili flakes"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Classic Margherita Pizza",
+      "description": "Traditional Italian pizza topped with tomatoes, fresh mozzarella, and basil leaves.",
+      "preparing_time": 20,
+      "calories": "400",
+      "image": "https://i.ibb.co/Twzh2Kh/brooke-lark-j-UPOXXRNdc-A-unsplash-2.jpg",
+      "ingredients": [
+        "1 pre-made pizza dough",
+        "1/2 cup marinara sauce",
+        "8 oz fresh mozzarella, sliced",
+        "2 tomatoes, thinly sliced",
+        "Handful of fresh basil leaves",
+        "1 tablespoon olive oil",
+        "Salt and pepper to taste"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Grilled Salmon with Asparagus",
+      "description": "Healthy and flavorful grilled salmon served with tender asparagus spears.",
+      "preparing_time": 35,
+      "calories": "320",
+      "image": "https://i.ibb.co/jzKc9sr/micheile-henderson-d17-R6-LFLge-I-unsplash.jpg",
+      "ingredients": [
+        "2 salmon fillets",
+        "1 bunch asparagus, trimmed",
+        "2 tablespoons olive oil",
+        "2 cloves garlic, minced",
+        "1 lemon, sliced",
+        "Salt and pepper to taste"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Chocolate Lava Cake",
+      "description": "Indulgent chocolate cake with a gooey, molten center, perfect for chocolate lovers.",
+      "preparing_time": 40,
+      "calories": "450",
+      "image": "https://i.ibb.co/4jk3ChT/todd-quackenbush-x5-SRhk-Fajr-A-unsplash.jpg",
+      "ingredients": [
+        "1/2 cup unsalted butter",
+        "4 oz semisweet chocolate",
+        "2 large eggs",
+        "2 large egg yolks",
+        "1/4 cup granulated sugar",
+        "2 tablespoons all-purpose flour",
+        "1/4 teaspoon salt",
+        "Powdered sugar and raspberries for serving"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Mango Tango Smoothie",
+      "description": "Refreshing smoothie made with ripe mangoes, yogurt, and a hint of lime.",
+      "preparing_time": 10,
+      "calories": "200",
+      "image": "https://i.ibb.co/w6ZZndN/julius-9zy3-Ga-H8-NKM-unsplash.jpg",
+      "ingredients": [
+        "2 ripe mangoes, peeled and chopped",
+        "1 cup plain yogurt",
+        "1/2 cup milk",
+        "1 tablespoon honey",
+        "1 teaspoon lime zest",
+        "Ice cubes"
+      ]
+    }
+  ]
+  
